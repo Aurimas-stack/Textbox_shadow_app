@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Box-Shadow-Generator-App/static/css/main.1a33c86b.css",
-    "main.js": "/Box-Shadow-Generator-App/static/js/main.e2a695c6.js",
-    "index.html": "/Box-Shadow-Generator-App/index.html",
-    "main.1a33c86b.css.map": "/Box-Shadow-Generator-App/static/css/main.1a33c86b.css.map",
-    "main.e2a695c6.js.map": "/Box-Shadow-Generator-App/static/js/main.e2a695c6.js.map"
+    "main.css": "/Textbox_shadow_app/static/css/main.1a33c86b.css",
+    "main.js": "/Textbox_shadow_app/static/js/main.a587145a.js",
+    "index.html": "/Textbox_shadow_app/index.html",
+    "main.1a33c86b.css.map": "/Textbox_shadow_app/static/css/main.1a33c86b.css.map",
+    "main.a587145a.js.map": "/Textbox_shadow_app/static/js/main.a587145a.js.map"
   },
   "entrypoints": [
     "static/css/main.1a33c86b.css",
-    "static/js/main.e2a695c6.js"
+    "static/js/main.a587145a.js"
   ]
 }
