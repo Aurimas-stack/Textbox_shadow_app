@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Textbox_shadow_app/static/css/main.1a33c86b.css",
-    "main.js": "/Textbox_shadow_app/static/js/main.a587145a.js",
+    "main.js": "/Textbox_shadow_app/static/js/main.e2a695c6.js",
     "index.html": "/Textbox_shadow_app/index.html",
     "main.1a33c86b.css.map": "/Textbox_shadow_app/static/css/main.1a33c86b.css.map",
-    "main.a587145a.js.map": "/Textbox_shadow_app/static/js/main.a587145a.js.map"
+    "main.e2a695c6.js.map": "/Textbox_shadow_app/static/js/main.e2a695c6.js.map"
   },
   "entrypoints": [
     "static/css/main.1a33c86b.css",
-    "static/js/main.a587145a.js"
+    "static/js/main.e2a695c6.js"
   ]
 }
